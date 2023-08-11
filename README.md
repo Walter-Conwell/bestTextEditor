@@ -8,7 +8,7 @@ Use this text editor to edit your notes
 
 ## Screenshot:
 
-![theBestTextEditor](./client/src/images/image.png)
+![demoscreenshot](./client/src/images/image.png)
 
 ## Table of Contents
 
